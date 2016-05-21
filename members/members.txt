@@ -1,0 +1,27 @@
+MeZ Assassin
+MeZ BurstMage25
+MeZ Chaos
+MeZ Darkness
+MeZ Death
+MeZ Despair
+MeZ Famez
+MeZ Famine
+MeZ Frosty
+MeZ Greybeard
+MeZ Hades
+MeZ Iron
+MeZ Kronos
+MeZ Misery
+MeZ Pestilence
+MeZ Plague
+MeZ Scalie
+MeZ Squid
+MeZ Tinkerbell
+MeZ Warfare
+MeZ Wheels
+MeZ WillieP
+MeZ Yearly
+
+//maybes
+MeZ Parasite
+MeZ Prodigy
